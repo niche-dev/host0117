@@ -22,8 +22,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'k)-_v+)zcug(-y+9q#b$e(m@_uu83g3e#^(nfbt0^ah0f+oftl'
-LINE_CHANNEL_ACCESS_TOKEN = 'xxx'
-LINE_CHANNEL_SECRET = 'xxx'
+LINE_CHANNEL_ACCESS_TOKEN = 'WebJYKrzYbb7xsY4MG3PwzqjrMF9Gp0TNUmsOJYyF+ASK+qk3zSix/o3SVy8oFh1AxOtS01r+FfvLrIkZzdYP16GdMKD9PC5on9j5wEa0/FQJ3hZEXyuVyXHdC8H0oJJ8zyhn1DO6m5i0Ab1O26GUwdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_SECRET = 'd6957bcb1eb009d96a6f4c493cf65dbf'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
