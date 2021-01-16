@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath app001 app001.wsgi
